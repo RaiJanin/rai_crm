@@ -7,7 +7,6 @@ use App\Enums\TicketStatus;
 use App\Enums\TicketType;
 use App\Models\Ticket;
 use App\Contracts\HasLabel;
-use BackedEnum;
 use Illuminate\Support\Collection;
 
 /**
